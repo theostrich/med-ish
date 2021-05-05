@@ -1,0 +1,22 @@
+{
+  "name": "Med-ish",
+  "description": "Make medium posts view free. ",
+  "keywords": [
+    "Medium",
+    "Twitter",
+    "theostrich",
+    "python",
+    "theostrich",
+    "post"
+  ],
+  "repository": "https://github.com/theostrich/med-ish",
+  "website": "https://theostrich.eu.org/",
+ 
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+
+}
